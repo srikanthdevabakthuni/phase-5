@@ -1,0 +1,36 @@
+body{
+    background:#f4f7fc;
+    font-family:Arial, sans-serif;
+}
+
+.login-card{
+    max-width:450px;
+    margin:auto;
+}
+
+.counter-box{
+    background:#0d6efd;
+    color:white;
+    padding:15px;
+    margin-bottom:20px;
+    border-radius:8px;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.card{
+    border:none;
+}
+
+table{
+    background:white;
+}
+
+.btn{
+    font-weight:600;
+}
+
+h1{
+    font-weight:bold;
+}
